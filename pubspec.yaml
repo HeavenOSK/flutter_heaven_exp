@@ -1,0 +1,28 @@
+name: flutter_heaven_exp
+description: A new Flutter application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  disposable_provider:
+  flutter_state_notifier:
+  freezed_annotation:
+  mono_kit:
+  provider:
+  rxdart:
+  simple_logger:
+  state_notifier:
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner:
+  freezed:
+  image_test_utils:
+  json_serializable:
+  mockito:
+  pedantic_mono:
+flutter:
+  uses-material-design: true
